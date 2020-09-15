@@ -1,0 +1,52 @@
+Web design using reactjs:
+---------------------------------------
+-->Table of contents:
+1.GIt &Github
+2.Html5
+3.Css3
+4.Bootstrap
+5.JavaScript
+6.ES6
+7.Reactjs
+
+--->Software:
+1.Git
+2.sublim or atom or Visual studio
+3.Nodejs
+-----------------------------------------------------------------------
+Downloaded git software & github account sign up:
+Git:
+-->it is open source distributed version control(track any type of work for changes &bugs with team together)
+-->designed for minor &major projects with high speed &efficiency
+-->it is developed to coordinate the work for all the developers
+-->Git is foundation of many services like github and etc
+-->it is used privately&publicaly &cloud repository
+-->Git is created by linus torvalds in 2005
+Features:
+-->Open source
+-->Version control
+-->Scalability:no. of users increases it handles automatically
+-->Security
+-->Speed
+----------------------------------------------------------
+Github:
+-->it isof git repository hosting service
+-->Access control&collobaration
+-->it mainly hosts the source code
+--->it also offer like some git distributed version control and source code management
+Features:
+-->Collaboration
+-->bug tracking
+--->git repository
+--->Code hosting
+-->Tracking changes
+--->Team &project management
+-------------------------------------------------------------------------------------------
+git config --global user.name " "
+git config --global user.email " "
+touch gayatri.txt
+touch sample.html
+mkdir sample
+
+
+

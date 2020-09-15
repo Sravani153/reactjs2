@@ -1,0 +1,12 @@
+Day 2:
+---------------------------------------------------------------------------------
+HTML:
+1.basic tags
+2.blockevel elements
+3.Inline elements
+4.scematic tags&non schemtic tags
+5.Navigation
+-->frontend users can access gui but not backend
+-->Html is usedfor creating static webpages &web applications
+-->tin berners lee in 1989 
+--->html is markup languages
